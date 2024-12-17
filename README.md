@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I'm Esteban👋</h1>
 </div>
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/2fBYdJ0"  ><a href="//imgur.com/a/2fBYdJ0">Banner EstebanRDZ</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+<img src="https://imgur.com/OcLTH9X"
 
 
 
