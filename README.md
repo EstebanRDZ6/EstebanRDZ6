@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I'm Esteban👋</h1>
 </div>
-<img src="[https://ar.pinterest.com/pin/614600680437889977/](https://i.pinimg.com/1200x/3f/f0/ea/3ff0ea46eb59c217755133f6d04b85f5.jpg)">
+<img src="https://imgur.com/OcLTH9X">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
