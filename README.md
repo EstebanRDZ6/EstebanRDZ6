@@ -15,7 +15,7 @@ I design and build scalable SaaS platforms, AI dashboards, and business automati
 
 I am a **Systems Analyst and Full-Stack Developer** focused on building modern software platforms for businesses.
 
-My experience includes developing **scalable backend systems, SaaS platforms, AI dashboards, and automation tools** using modern technologies such as **.NET, Python, Flutter, and PostgreSQL**.
+My experience includes developing **scalable backend systems, SaaS platforms, AI dashboards, and automation tools** using technologies such as **.NET, Python, Flutter, Docker, and PostgreSQL**.
 
 I specialize in **backend architecture, API development, database systems, and automation workflows**, designing solutions that improve business efficiency and data management.
 
@@ -71,7 +71,7 @@ Workflow automation platform inspired by tools like Zapier.
 • Backend Architecture & APIs  
 • Database Design & Optimization  
 • Workflow Automation  
-• Game Logic Development
+• Game Logic Development  
 
 ---
 
@@ -122,43 +122,49 @@ Pandas • NumPy • PyTorch • TensorFlow • Scikit-learn
 PostgreSQL  
 SQL Server  
 MySQL  
-SQLite
+SQLite  
 
 **NoSQL & Backend Platforms**
 
 Firebase  
 Supabase  
 MongoDB  
-Redis
+Redis  
 
 ---
 
-## ☁️ Cloud, DevOps & Tools
+## ☁️ Cloud, DevOps & Infrastructure
 
 **Infrastructure & Containers**
 
 Docker  
 Kubernetes  
-Terraform
-
-**Version Control**
-
-Git  
-GitHub  
-GitLab
+Terraform  
 
 **Cloud Platforms**
 
 AWS  
 Google Cloud  
-Microsoft Azure
+Microsoft Azure  
+DigitalOcean  
+Hetzner  
+
+**Edge, CDN & Security**
+
+Cloudflare  
+
+**Version Control**
+
+Git  
+GitHub  
+GitLab  
 
 **Development Tools**
 
 VS Code  
 Postman  
 Linux  
-Google Workspace
+Google Workspace  
 
 ---
 
@@ -167,15 +173,25 @@ Google Workspace
 <p align="left">
 
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+
 <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
+
 <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
+
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
+
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+
 <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+
 <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+
 <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40" height="40"/></a>
 
 </p>
